@@ -1,0 +1,15 @@
+C:\Users\labcisco\Documents\Funciones\hoa\bin\Debug\net10.0\hoa.exe
+C:\Users\labcisco\Documents\Funciones\hoa\bin\Debug\net10.0\hoa.deps.json
+C:\Users\labcisco\Documents\Funciones\hoa\bin\Debug\net10.0\hoa.runtimeconfig.json
+C:\Users\labcisco\Documents\Funciones\hoa\bin\Debug\net10.0\hoa.dll
+C:\Users\labcisco\Documents\Funciones\hoa\bin\Debug\net10.0\hoa.pdb
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.AssemblyInfoInputs.cache
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.AssemblyInfo.cs
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.csproj.CoreCompileInputs.cache
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.sourcelink.json
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.dll
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\refint\hoa.dll
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.pdb
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\hoa.genruntimeconfig.cache
+C:\Users\labcisco\Documents\Funciones\hoa\obj\Debug\net10.0\ref\hoa.dll
