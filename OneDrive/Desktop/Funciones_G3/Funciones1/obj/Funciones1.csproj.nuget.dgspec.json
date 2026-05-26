@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj": {}
+    "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj": {
+    "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj",
+        "projectUniqueName": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj",
         "projectName": "Funciones1",
-        "projectPath": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj",
+        "projectPath": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\Funciones1.csproj",
         "packagesPath": "C:\\Users\\karid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\obj\\",
+        "outputPath": "C:\\Users\\karid\\OneDrive\\Desktop\\Funciones_G3\\OneDrive\\Desktop\\Funciones_G3\\Funciones1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karid\\AppData\\Roaming\\NuGet\\NuGet.Config",

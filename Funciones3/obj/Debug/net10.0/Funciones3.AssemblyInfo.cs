@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funciones3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e27a457b5b4677ad503284f366e0eda84b625d1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cac6f27cf2b5897c001fca728c09fb4aef26b72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funciones3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funciones3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
