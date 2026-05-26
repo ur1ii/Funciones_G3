@@ -1,0 +1,15 @@
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\bin\Debug\net10.0\Funciones3.exe
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\bin\Debug\net10.0\Funciones3.deps.json
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\bin\Debug\net10.0\Funciones3.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\bin\Debug\net10.0\Funciones3.dll
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\bin\Debug\net10.0\Funciones3.pdb
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.sourcelink.json
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.dll
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\refint\Funciones3.dll
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.pdb
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\Funciones3.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\Funciones_G3\Funciones3\obj\Debug\net10.0\ref\Funciones3.dll
